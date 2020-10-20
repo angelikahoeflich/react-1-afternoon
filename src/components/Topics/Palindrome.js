@@ -3,8 +3,9 @@ import React, {Component} from 'react'
 class Palindrome extends Component{
   render(){
     return(
-    <p>'Hello World</p>
-    )}
+    <p>Palindrome Component</p>
+    )
+  }
 }
 
 export default Palindrome;
